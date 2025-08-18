@@ -1,7 +1,7 @@
 # HTB-Academy-Courses
-Doumentation and notes for Hack the Box classes.
-What the project does?
-Why the project is useful?
-How users can get started with the project?
-Where users can get help with your project?
-Who maintains and contributes to the project?
+Doumentation and notes for Hack the Box classes.</p>
+What the project does?<br>
+Why the project is useful?<br>
+How users can get started with the project?<br>
+Where users can get help with your project?<br>
+Who maintains and contributes to the project?<br>
